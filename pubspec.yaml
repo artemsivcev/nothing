@@ -1,0 +1,40 @@
+name: nothing
+version: 0.0.37+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.17.0 <3.0.0'
+
+dependencies:
+  flutter_blue: ^0.8.0
+  get: 4.6.5
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^2.0.1
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
+  assets:
+    - assets/ears/
+    - assets/icons/
+
+  fonts:
+    - family: ndot
+      fonts:
+        - asset: assets/fonts/ndot_57.otf
+          weight: 100
+
+    - family: space_grotesk
+      fonts:
+        - asset: assets/fonts/space_grotesk_light.ttf
+          weight: 200
+        - asset: assets/fonts/space_grotesk_medium.ttf
+          weight: 500
+        - asset: assets/fonts/space_grotesk_bold.ttf
+          weight: 700
+
