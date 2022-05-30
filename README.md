@@ -14,15 +14,15 @@ There is no bluetooth logic connection to headphones, or other real functionalit
 
 | Start app, device connection | Change device |
 | :---: | :---: |
-| ![SOpenPermissionConnect](https://s8.gifyu.com/images/OpenPermissionConnect.gif) | ![DeviceChange](https://s8.gifyu.com/images/DeviceChange.gif) |
+| ![OpenPermissionConnect](https://i.imgur.com/CHvKhde.gif) | ![DeviceChange](https://i.imgur.com/DKhuwLE.gif) |
 
 | Device settings | Scan and add new device |
 | :---: | :---: |
-| ![DeviceSettings](https://s8.gifyu.com/images/DeviceSettings.gif) | ![ScanningAndAddNewDevice](https://s8.gifyu.com/images/ScanningAndAddNewDevice.gif) |
+| ![DeviceSettings](https://i.imgur.com/CXx6NRQ.gif) | ![ScanningAndAddNewDevice](https://i.imgur.com/94GYoB6.gif) |
 
 | Themes, login, settings| 
 | :---: | 
-| ![WhiteTheme](https://s8.gifyu.com/images/WhiteThemefbb0c6256ede4cb2.gif) | 
+| ![WhiteTheme](https://i.imgur.com/WRweONJ.gif) | 
 
 ## Goals
 
